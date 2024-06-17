@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nobby</h1>
 <h3 align="center">A backend developer with a love for acquiring new knowledge.</h3>
 
-- 🔭 I’m currently working on [MySQL-master-slave-replication project][https://github.com/Nobby3190/Short-URL-Generator](https://github.com/Nobby3190/MySQL-master-slave-replication.git)
+- 🔭 I’m currently working on [MySQL-master-slave-replication project](https://github.com/Nobby3190/MySQL-master-slave-replication.git)
 
 - 🌱 I’m currently learning **DevOps**
 
